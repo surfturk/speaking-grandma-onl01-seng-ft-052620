@@ -18,5 +18,6 @@ def speak_to_grandma(string)
   elseif string != string.upcase
     "HUH?! SPEAK UP, SONNY!"
   end
+else 
   
 end  
